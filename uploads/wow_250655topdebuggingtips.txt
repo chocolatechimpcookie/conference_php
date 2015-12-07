@@ -1,0 +1,3 @@
+-Try
+-try again
+-check the code, checkit in a debugger, view source (for example php, view output on a browser)
